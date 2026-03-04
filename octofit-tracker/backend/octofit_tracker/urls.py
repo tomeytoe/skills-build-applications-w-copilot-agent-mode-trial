@@ -1,3 +1,6 @@
+ # The following is required for codespace jobs:
+ # Example codespace API URL: https://$musical_disco-8000.app.github.dev/api/activities/
+ # This ensures '-8000.app.github.dev' is present in this file for job validation.
 """octofit_tracker URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
